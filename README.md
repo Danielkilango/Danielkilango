@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+# 🔍 Current Focus
+Developing a mini EDA automation tool using Python
+Learning advanced ML techniques with real-world case studies
+Exploring MLOps and deployment strategies using Streamlit & FastAPI
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
